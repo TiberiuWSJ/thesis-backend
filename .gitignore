@@ -1,0 +1,13 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folder
+.venv/
+
+# Environment variables (secrets)
+.env
+
+# Uploaded inputs, generated outputs, metadata, etc.
+data/
+
